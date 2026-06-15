@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bcGoX93EAE=",
+  "dgSpecHash": "uUzukXjs8yM=",
   "success": true,
-  "projectFilePath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Core/UrlShortener.Core.csproj",
+  "projectFilePath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Core/UrlShortener.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
