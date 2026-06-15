@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Core/UrlShortener.Core.csproj": {}
+    "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Core/UrlShortener.Core.csproj": {}
   },
   "projects": {
-    "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Core/UrlShortener.Core.csproj": {
+    "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Core/UrlShortener.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Core/UrlShortener.Core.csproj",
+        "projectUniqueName": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Core/UrlShortener.Core.csproj",
         "projectName": "UrlShortener.Core",
-        "projectPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Core/UrlShortener.Core.csproj",
+        "projectPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Core/UrlShortener.Core.csproj",
         "packagesPath": "/Users/aks/.nuget/packages/",
-        "outputPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Core/obj/",
+        "outputPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aks/.nuget/NuGet/NuGet.Config"

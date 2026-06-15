@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Infrastructure/UrlShortener.Infrastructure.csproj",
+      "projectUniqueName": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Infrastructure/UrlShortener.Infrastructure.csproj",
       "projectName": "UrlShortener.Infrastructure",
-      "projectPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Infrastructure/UrlShortener.Infrastructure.csproj",
+      "projectPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Infrastructure/UrlShortener.Infrastructure.csproj",
       "packagesPath": "/Users/aks/.nuget/packages/",
-      "outputPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener.Infrastructure/obj/",
+      "outputPath": "/Users/aks/Projects/Distributed-URL-Shortener-with-Rate-Limiter-/UrlShortener/UrlShortener.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aks/.nuget/NuGet/NuGet.Config"
