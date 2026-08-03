@@ -1,3 +1,6 @@
-UrlShortener/UrlShortener.API/obj
-UrlShortener/UrlShortener.Core/obj
+# Ignore build output and object folders
+bin/
+obj/
+# Ignore nested Debug output folders
+**/bin/Debug/
 
